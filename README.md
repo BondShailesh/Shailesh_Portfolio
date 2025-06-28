@@ -17,14 +17,14 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](https://i.postimg.cc/Dfr5jCQp/Screenshot-2025-01-02-120901.png)
+![Portfolio Demo](![alt text](image.png))
 
 ---
 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://codervai.vercel.app/)
+[**Live Demo**](https://shailesh-kr-portfolio.netlify.app/)
 ---
 ### 🎯 Project Structure
 ```bash
@@ -123,64 +123,6 @@ The portfolio website consists of the following sections:
 
 ---
 
-## Installation ⬇️
-
-You will need to download **Git** and **Node** to run this project.
-
-### Git
-
-- Download and install Git from the official website: [Git Downloads](https://git-scm.com/)
-- Verify the installation:
-  ```bash
-  git --version
-  ```
-
-### Node
-
-- Download and install Node.js from the official website: [Node.js Downloads](https://nodejs.org/)
-- Make sure you have the latest version of both Git and Node on your computer.
-- Verify the installation:
-  ```bash
-  node --version
-  ```
-
-# Getting Started 🎯
-
-### Fork and Clone the Repository 🚀
-1. Click the **Fork** button at the top-right corner of the page to create your own copy of the repository.
-2. After forking, open your terminal and run the following commands to clone the repo:
-
-  ```bash
-  git clone https://github.com/seraprogrammer/portfolio.git
-  ```
-Navigate to the Project Directory 📂
-Once the repository is cloned, change your directory to the project folder:
-```bash
-cd portfolio
-```
-
-Install Dependencies ⚙️
-From the root directory of your project, install the necessary packages:
-```bash
-npm install
-```
-
-Run the Development Server 🚀
-Start the development server to see your project live:
-```bash
-npm run dev
-```
-
-View the Project 🌐
-Open your browser and visit http://localhost:5173/ to see the result! 🎉
-
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-### 🤝 Contributing
-
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -189,7 +131,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<div align="center"> Made with ❤️ by Nazmul Hossain </div>
-
-
-# Shailesh_Portfolio
+<div align="center"> Made with ❤️ by Shailesh </div>
